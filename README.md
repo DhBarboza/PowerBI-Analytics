@@ -13,4 +13,7 @@ Canal [Empowerdata](https://www.youtube.com/channel/UCX8dXdLxlgBSKcOhb-ixuJg)
 ### Dashboard para setor de recursos humanos (Base de dados fictícia)
 - [Análise-Dashboard](/People-Management-Analysis/Human-Resources-Analysis.pbix)
 - [Database](/People-Management-Analysis/Database)
-- [Layout](/People-Management-Analysis/Template)
+
+### Dashboard para setor Financeiro (Base de dados Fictícia)
+- [Análise-Dashboard](/Sales-Analysis/Finance-Section-Analysis.pbix)
+- [Database](/Sales-Analysis/Database)
