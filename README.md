@@ -30,5 +30,5 @@ Canal [Hashtag](https://www.youtube.com/channel/UCw0leRmeaX7R_9BDd3TvCzg)<br>
 - [Database](./Logistics/Base-Logistica.xlsx)
 
 <div align="center">
-    <img alt="dashboard image" src="./Logistics/dash-logistic-image.png" width="400px"> 
+    <img alt="dashboard image" src="./Logistics/dash-logistic-image.png" width="600px"> 
 </div>
