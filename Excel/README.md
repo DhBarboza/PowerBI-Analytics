@@ -45,3 +45,7 @@
 
 ### Filtro em Tela (Formatação em tabela):
 > Guia: Design > Grupo: Ferramentas > Inserir Segmentação de Dados > Selecionar a coluna
+
+<br >
+
+## Tabela Dinâmica
