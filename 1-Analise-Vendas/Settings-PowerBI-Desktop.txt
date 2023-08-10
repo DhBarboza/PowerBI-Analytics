@@ -1,0 +1,8 @@
+Configurações do Power BI Desktop:
+- Selecionar:Arquivo > Selecionar:Opções e Configurações > Selecionar:Opções > Navegar:Recursos de Visualização > Habilitar:Interação no Objeto
+
+- Lateral Direita: Asidebar > Selecionar: '+' Personalizar alternador de painel > Habilitar: Dados, Formato, Criar Visual
+
+- Importar Dados do Excel > Importar:[Tabela_Nome] > Transformar Dados 
+- [Nome_Cliente] > Navegar:Transformar > Seção: Coluna de Texto > Selecionar: Formato: Cada Palavra em Maiúsculo
+- [Estado_Cliente] > Navegar:Transformar > Seção: Qualquer Coluna > Selecionar: Substituir Valores
